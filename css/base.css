@@ -1,4 +1,3 @@
-@font-face { font-family: BorderWall; src: url(../fonts/border-wall.woff); }
 body { background-color: #333; background-image: url(../images/hero-2.jpg); background-position: center top; background-repeat: no-repeat; background-size: 100% auto; color: #fff; font-family: "Georgia", serif; font-size: 16px; margin: 0 auto; width: 1200px; }
 nav { background-color: #121212; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; color: #fff; height: 80px; line-height: 80px; margin: 0 auto; width: 1200px; position: fixed; top: 0; }
 nav ul { display: flex; justify-content: center; list-style-type: none; margin: 0; padding: 0; }
