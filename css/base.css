@@ -1,16 +1,16 @@
 @font-face { font-family: BorderWall; src: url(../fonts/border-wall.woff); }
 body { background-color: #333; background-image: url(../images/hero-2.jpg); background-position: center top; background-repeat: no-repeat; background-size: 100% auto; color: #fff; font-family: "Georgia", serif; font-size: 16px; margin: 0 auto; width: 1200px; }
 nav { background-color: #121212; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; color: #fff; height: 80px; line-height: 80px; margin: 0 auto; width: 1200px; position: fixed; top: 0; }
-nav ul { display: flex; list-style-type: none; margin: 0; }
+nav ul { display: flex; justify-content: center; list-style-type: none; margin: 0; padding: 0; }
 nav ul h1 { margin: 0; }
 nav ul h2 { margin: 0; }
-nav a { font-size: 30px; height: 100px; position: top; text-decoration: none; vertical-align: middle; }
+nav a { font-size: 30px; position: top; text-decoration: none; vertical-align: middle; }
 nav a.amazon { background-image: url(../images/amazon.png); background-position: center center; background-repeat: no-repeat; background-size: 40px 40px; height: 40px; margin: 0 20px 0 0; overflow: hidden; text-indent: 100%; white-space: nowrap; width: 40px; }
 nav a.deezer { background-image: url(../images/deezer.png); background-position: center center; background-repeat: no-repeat; background-size: 40px 40px; height: 40px; margin: 0 20px 0 0; overflow: hidden; text-indent: 100%; white-space: nowrap; width: 40px; }
 nav a.instagram { background-image: url(../images/instagram.png); background-position: center center; background-repeat: no-repeat; background-size: 40px 40px; height: 40px; margin: 20px 20px 20px 0; overflow: hidden; text-indent: 100%; white-space: nowrap; width: 40px; }
 nav a.music { background-image: url(../images/apple-music.png); background-position: center center; background-repeat: no-repeat; background-size: 40px 40px; height: 40px; margin: 20px 20px 20px 0; overflow: hidden; text-indent: 100%; white-space: nowrap; width: 40px; }
 nav a.spotify { background-image: url(../images/spotify.png); background-position: center center; background-repeat: no-repeat; background-size: 40px 40px; height: 40px; margin: 20px 20px 20px 0; overflow: hidden; text-indent: 100%; white-space: nowrap; width: 40px; }
-nav h1 a { color: #fff; display: inline-block; font-size: 48px; font-weight: bold; line-height: 80px; margin: 0 50px 0 0; text-align: center; vertical-align: middle; }
+nav h1 a { color: #fff; display: inline-block; font-size: 48px; font-weight: bold; line-height: 80px; margin: 0 80px 0 0; text-align: center; vertical-align: middle; }
 nav h2 a { color: #fff; display: inline-block; font-size: 30px; margin: 0 30px 0 0; vertical-align: middle; }
 nav div { margin: 0 auto; width: 1280px; }
 section { font-size: 24px; margin: 0 auto; width: 1200px; }
